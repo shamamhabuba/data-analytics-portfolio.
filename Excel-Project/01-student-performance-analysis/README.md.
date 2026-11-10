@@ -1,1 +1,30 @@
+# Project 1: Student Performance Analysis
 
+## Project Overview
+This project uses Microsoft Excel to organise and analyse student academic performance, marks and attendance.
+
+## Skills Practised
+- Dataset creation and data entry
+- Excel formatting
+- Relative and absolute cell references
+- Formulas and calculations
+- Flash Fill
+- Conditional formatting
+- Sorting and filtering
+- Freeze Panes and Split Window
+- Page layout and printing
+
+## Tools Used
+- Microsoft Excel
+
+## Project Tasks
+1. Created a student performance dataset.
+2. Applied formatting and formulas.
+3. Calculated bonus marks using absolute references.
+4. Generated student codes using Flash Fill.
+5. Applied conditional formatting.
+6. Sorted and filtered student records.
+7. Prepared the worksheet for printing.
+
+## Learning Outcome
+Practised essential Excel features for data organisation, analysis and reporting.
