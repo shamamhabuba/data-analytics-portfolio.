@@ -1,1 +1,40 @@
+# Project 5: Data Cleaning & Transformation Using Power Query
 
+## Project Overview
+This project demonstrates how to clean, transform, merge, and append raw sales datasets using Microsoft Excel Power Query. It focuses on preparing reliable, structured data for business analysis and reporting.
+
+## Project Objectives
+- Import multiple raw datasets into Power Query.
+- Remove blank rows and duplicate records.
+- Trim extra spaces and standardize text formatting.
+- Correct column names and data types.
+- Identify and handle missing values and errors.
+- Merge datasets using Order ID.
+- Append multiple datasets into one consolidated table.
+- Apply Unpivot to transform data from wide to long format.
+- Load cleaned data into the Excel Data Model.
+- Create PivotTables for sales analysis.
+
+## Workbook Structure
+
+| Worksheet / Query | Description |
+|---|---|
+| Raw Sales Data 1 | First source sales dataset |
+| Raw Sales Data 2 | Second source sales dataset |
+| Cleaned Sales Data | Merged and appended cleaned sales records |
+| Unpivoted Data | Monthly sales data transformed into rows |
+| Pivot Report | Sales analysis by region and product |
+
+## Excel Skills Demonstrated
+- Power Query
+- Data Cleaning
+- Data Transformation
+- Remove Duplicates
+- Trim and Clean Text
+- Data Type Management
+- Merge Queries
+- Left Outer Join
+- Append Queries
+- Unpivot Columns
+- Excel Data Model
+-
