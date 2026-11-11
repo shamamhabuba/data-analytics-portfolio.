@@ -1,1 +1,74 @@
+# Project 2: Excel Business Formula Integration
 
+## Project Overview
+This project demonstrates how Microsoft Excel formulas can be used to solve common business problems through sales data analysis.
+
+The workbook contains a sample sales dataset and applies different Excel functions to calculate sales performance, classify transactions, filter high-value sales, and retrieve product prices.
+
+## Objectives
+- Calculate total sales using multiplication.
+- Classify sales using IF statements.
+- Evaluate performance using AND and OR conditions.
+- Filter high-value sales using FILTER.
+- Perform conditional calculations using SUMIF, COUNTIF, SUMIFS, COUNTIFS, AVERAGEIF, and AVERAGEIFS.
+- Retrieve product prices using VLOOKUP.
+- Perform advanced lookups using INDEX and MATCH.
+- Combine and split text using Excel text functions.
+
+## Workbook Structure
+
+| Worksheet | Description |
+|---|---|
+| Sales Data | Main sales dataset and formula calculations |
+| High Value Sales | Filtered records with sales above 2,000 |
+| Product Price List | Product reference table and standard prices |
+
+## Excel Skills Demonstrated
+
+**Basic formulas**
+- Multiplication
+- IF
+
+**Logical functions**
+- AND
+- OR
+
+**Conditional aggregation**
+- SUMIF
+- COUNTIF
+- SUMIFS
+- COUNTIFS
+- AVERAGEIF
+- AVERAGEIFS
+
+**Lookup functions**
+- VLOOKUP
+- INDEX
+- MATCH
+
+**Dynamic array and text functions**
+- FILTER
+- TEXTSPLIT
+- Text concatenation
+
+## Business Applications
+
+These functions can help businesses:
+- Monitor sales performance.
+- Identify high-value transactions.
+- Compare regional sales.
+- Evaluate product performance.
+- Automate product price retrieval.
+- Reduce manual calculations.
+
+## Tools Used
+- Microsoft Excel
+- Excel formulas and functions
+
+## Project File
+`module-2-business-formula-practice.xlsx`
+
+---
+
+**Project Category:** Data Analytics Portfolio  
+**Project Type:** Excel Business Analysis Practice
