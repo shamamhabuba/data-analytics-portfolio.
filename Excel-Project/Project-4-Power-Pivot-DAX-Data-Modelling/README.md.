@@ -1,1 +1,59 @@
 
+# Project 4: Power Pivot, DAX & Data Modelling
+
+## Project Overview
+This project demonstrates how to build a relational data model in Excel using Power Pivot, create relationships between multiple tables, and perform business analysis using DAX measures.
+
+## Project Objectives
+- Create and manage multiple related data tables.
+- Understand primary keys and foreign keys.
+- Load data into the Power Pivot Data Model.
+- Establish relationships between Customers, Products, and Sales.
+- Refresh and update the data model dynamically.
+- Create DAX measures for sales and quantity analysis.
+- Integrate data from multiple sources.
+- Build interactive dashboards using PivotTables and PivotCharts.
+- Apply DAX functions such as CALCULATE, SUM, and COUNT.
+
+## Workbook Structure
+
+| Worksheet | Description |
+|---|---|
+| Customers | Customer information and city details |
+| Products | Product information, categories, and prices |
+| Sales | Transaction records and sales quantities |
+| Dashboard | Sales analysis and visual reporting |
+
+## Excel Skills Demonstrated
+- Power Pivot
+- Data Modelling
+- Primary and Foreign Keys
+- Table Relationships
+- Data Model Management
+- DAX Measures
+- CALCULATE
+- SUM
+- COUNT
+- PivotTables
+- PivotCharts
+- Interactive Slicers
+- Data Refresh
+
+## Business Applications
+- Analyze sales by product category.
+- Identify sales performance by customer city.
+- Calculate total revenue and quantity sold.
+- Understand relationships between business datasets.
+- Build interactive business intelligence dashboards.
+
+## Tools Used
+- Microsoft Excel
+- Power Pivot
+- DAX (Data Analysis Expressions)
+- PivotTables and PivotCharts
+
+## Project Category
+Data Analytics Portfolio
+
+## Project Type
+Advanced Excel Data Modelling & Business Intelligence
