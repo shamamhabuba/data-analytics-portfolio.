@@ -1,1 +1,66 @@
+# Project 6: Business Dashboard – Excel Data Analytics
 
+## Project Overview
+This project focuses on building an interactive business dashboard using Microsoft Excel, Power Query, Power Pivot, DAX, PivotTables, and PivotCharts.
+
+The goal is to transform raw sales data into meaningful business insights through data cleaning, calculations, and interactive visualizations.
+
+## Project Objectives
+- Import multiple sales datasets using Power Query.
+- Append and combine sales records.
+- Clean and transform raw sales data.
+- Load cleaned data into the Power Pivot Data Model.
+- Create DAX measures for business KPIs.
+- Analyze sales by region, product, and customer.
+- Visualize sales trends over time.
+- Build an interactive business dashboard.
+- Apply slicers and timelines for dynamic reporting.
+
+## Workbook Structure
+
+| Worksheet | Description |
+|---|---|
+| Sales Data | Combined and cleaned sales dataset |
+| Pivot Reports | Sales analysis by region, product, and customer |
+| Business Dashboard | Interactive KPI cards, charts, and slicers |
+
+## Excel Skills Demonstrated
+- Power Query
+- Power Pivot
+- Data Modelling
+- DAX Measures
+- PivotTables
+- PivotCharts
+- KPI Cards
+- Sales Trend Analysis
+- Slicers and Timelines
+- Data Cleaning and Transformation
+
+## Business KPIs
+- Total Sales
+- Total Quantity
+- Average Sales per Order
+- Profit
+- Cost
+- Profit Percentage
+
+## Business Applications
+- Monitor overall business performance.
+- Compare sales across regions.
+- Identify top-performing products.
+- Analyze customer purchasing patterns.
+- Track sales trends over time.
+- Support data-driven business decisions.
+
+## Tools Used
+- Microsoft Excel
+- Power Query
+- Power Pivot
+- DAX
+- PivotTables and PivotCharts
+
+## Project Category
+Data Analytics Portfolio
+
+## Project Type
+Business Intelligence & Interactive Dashboard
