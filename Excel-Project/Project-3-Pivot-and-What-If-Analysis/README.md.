@@ -1,1 +1,55 @@
 
+# Project 3: Excel Pivot Analysis & What-If Analysis
+
+## Project Overview
+This project focuses on advanced Excel data management, PivotTables, and What-If Analysis techniques to analyze business sales data and generate meaningful insights.
+
+## Project Objectives
+- Organize and manage raw sales data.
+- Create and customize PivotTables.
+- Analyze sales by region and product.
+- Use Goal Seek to achieve sales targets.
+- Create scenarios using Scenario Manager.
+- Apply calculated fields and calculated items.
+- Group, sort, and filter PivotTable data.
+- Use slicers for interactive reporting.
+- Generate summaries using the PIVOTBY function.
+
+## Workbook Structure
+
+| Worksheet | Description |
+|---|---|
+| Sales Raw Data | Main sales dataset |
+| Pivot Report | PivotTable sales analysis |
+| Goal Seek Result | Goal Seek calculations and results |
+| Scenario Summary | Scenario Manager summary report |
+
+## Excel Skills Demonstrated
+- PivotTables
+- Compact and Tabular Report Layouts
+- Subtotals and Calculated Fields
+- Goal Seek
+- Scenario Manager
+- Grouping and Sorting
+- Filters and Slicers
+- PIVOTBY Function
+- Business Sales Analysis
+
+## Business Applications
+- Compare regional sales performance.
+- Identify top-performing products.
+- Evaluate different sales scenarios.
+- Set and achieve business sales targets.
+- Build interactive sales reports.
+
+## Tools Used
+- Microsoft Excel
+- PivotTables
+- What-If Analysis
+- Excel formulas and functions
+
+## Project Category
+Data Analytics Portfolio
+
+## Project Type
+Advanced Excel Business Analysis
