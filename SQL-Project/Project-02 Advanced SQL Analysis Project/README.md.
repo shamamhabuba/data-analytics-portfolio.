@@ -1,1 +1,54 @@
+# Advanced SQL Queries for Data Analysis and Dashboards
 
+## Project Overview
+This project focuses on advanced SQL queries for data analysis using MySQL Workbench.
+
+A relational database named `module9_sql` was created with two tables: Customers and Orders. The project explores customer and product sales using SQL joins, aggregate functions, grouping, filtering, and subqueries.
+
+## Tools & Technologies
+- MySQL
+- MySQL Workbench
+- SQL
+
+## Database Structure
+**Database:** `module9_sql`
+
+**Tables:**
+- Customers
+- Orders
+
+**Dataset:**
+- 10+ customer records
+- 20+ order records
+
+## Skills Demonstrated
+- Database and table creation
+- Data insertion
+- INNER JOIN
+- LEFT JOIN
+- Aggregate functions (SUM)
+- Product-wise sales analysis
+- Product-wise quantity analysis
+- GROUP BY and HAVING
+- Customer-wise sales analysis
+- Subqueries
+- Average sales comparison
+- Combining multiple SQL concepts
+- Sorting results using ORDER BY
+
+## Project Tasks
+1. Database setup and sample data creation
+2. Combine customer and order data using INNER JOIN
+3. Retrieve all customers and their orders using LEFT JOIN
+4. Calculate product-wise total sales
+5. Analyze product-wise total quantities
+6. Filter grouped sales using HAVING
+7. Calculate customer-wise total sales
+8. Compare customer sales against average sales using a subquery
+9. Create a final combined sales analysis query
+
+## Project Objective
+Practice advanced SQL techniques to transform relational data into meaningful business insights that can support data analysis and dashboard development.
+
+## Learning Outcome
+Gained practical experience in joining multiple tables, performing sales aggregations, analyzing customer purchasing behavior, and writing advanced SQL queries for business reporting.
