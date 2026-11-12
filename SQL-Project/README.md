@@ -1,5 +1,5 @@
 
-# Module 8 – Maven Movies SQL Analysis
+#  Maven Movies SQL Analysis
 
 ## Project Overview
 This project focuses on SQL fundamentals using the Maven Movies Database in MySQL Workbench.
