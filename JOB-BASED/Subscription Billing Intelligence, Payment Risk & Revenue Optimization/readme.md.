@@ -1,1 +1,46 @@
+1. Project introduction
+This project simulates the billing operations of a subscription-based technology company offering digital products.
 
+It focuses on analyzing subscription revenue, payment failures, failed transactions, chargebacks, customer churn, and billing-related support requests.
+
+Using SQL, Python, Excel, and Power BI, the project will build a billing analytics solution to identify revenue leakage, investigate payment failure patterns, forecast financial performance, evaluate customer behaviour, and measure the effectiveness of billing strategy changes through A/B testing.
+
+The ultimate goal is to help a subscription business reduce payment failures, minimize financial risks, improve customer retention, and optimize billing performance through data-driven decisions.
+2. Skills we will develop
+Skill	What you will demonstrate
+SQL	Advanced queries, CTEs, window functions, joins
+Python	Data cleaning, pandas, exploratory analysis
+Excel	Data validation, Pivot Tables, financial analysis
+Power BI	Billing KPI dashboards and DAX
+Statistics	Descriptive statistics and hypothesis testing
+A/B Testing	Compare two billing strategies
+Forecasting	Revenue and payment failure projections
+Financial Analysis	Revenue leakage and chargeback analysis
+Data Quality	Missing records, duplicates, validation
+Business Reporting	Recommendations and documentation
+
+3. Project modules
+1. Subscription & Billing Data Management
+   
+   Build datasets for customers, subscriptions, payments and transactions.
+2. SQL Billing Analysis
+   
+   Analyze successful payments, failed payments, revenue, churn and chargebacks.
+3. Python Data Analysis
+   
+   Clean data, identify payment failure patterns and investigate risk indicators.
+4. Financial Risk & Revenue Leakage
+   
+   Calculate lost revenue, payment recovery rates and financial exposure.
+5. A/B Testing
+   
+   Compare two payment retry strategies and measure which performs better.
+6. Revenue Forecasting
+   
+   Create simple revenue forecasts and what-if scenarios.
+7. Power BI Dashboard
+   
+   Build an interactive executive billing performance dashboard.
+8. Business Recommendations
+   
+   Present findings and practical recommendations to management.
