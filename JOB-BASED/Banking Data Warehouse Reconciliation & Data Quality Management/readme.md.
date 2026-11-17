@@ -1,1 +1,15 @@
+Skills Needed
+1. SQL – Joins, CTEs, subqueries, aggregations, data validation.
+2. Excel – Data reconciliation, Pivot Tables, lookup functions.
+3. Power BI / Tableau – Data quality and financial reporting dashboards.
+4. Data Warehousing – Fact tables, dimension tables, data marts, data mapping.
+5. Accounting Basics – Debit, credit, ledger entries, balance reconciliation.
+6. Data Quality – Missing values, duplicates, mismatched records, validation rules.
+7. Root Cause Analysis – Investigating why numbers differ between systems.
+8. Documentation – Data dictionaries, business rules and SQL logic.
+Introduction
+This project simulates a real banking data warehouse environment where financial data comes from multiple source systems, including customer accounts, transactions, and accounting ledgers.
 
+Using SQL, Excel, and Power BI, the project will build a simplified banking data mart, reconcile transaction records against accounting ledger entries, identify discrepancies, detect duplicate and missing records, and establish data quality validation rules.
+
+The goal is to ensure financial data is accurate, consistent, and reliable for management reporting, accounting operations, and regulatory reporting.
