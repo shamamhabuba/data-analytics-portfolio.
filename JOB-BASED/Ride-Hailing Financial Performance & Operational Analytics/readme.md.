@@ -1,1 +1,17 @@
+kills Needed
+1. SQL – Joins, CTEs, aggregations, window functions.
+2. Excel / Google Sheets – Financial modelling, Pivot Tables, advanced formulas.
+3. Power BI / Tableau – Financial and operational dashboards.
+4. Python – Data cleaning, analysis and automation.
+5. Data Pipelines (ETL) – Extracting, transforming and loading data.
+6. Data Modelling – Fact tables, dimension tables and data marts.
+7. dbt Fundamentals – Data transformation, testing, documentation and lineage.
+8. Financial Modelling – Revenue, costs, profit margins and forecasting.
+9. Automation – Automating weekly financial reports.
+10. Business Communication – Explaining insights and recommendations to stakeholders.
+Introduction
+This project simulates the financial and operational analytics of a global ride-hailing company. It focuses on analyzing ride revenue, driver payments, operational costs, customer demand, and profitability across different cities and regions.
 
+Using SQL, Excel, Python, and Power BI, the project will develop automated reporting workflows, financial performance models, and interactive dashboards to monitor business KPIs, identify cost inefficiencies, forecast revenue, and evaluate operational performance.
+
+The goal is to help management understand financial performance, improve operational efficiency, automate recurring reports, and make smarter business decisions.
